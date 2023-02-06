@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunmani12" alt="arunmani12" /></a> </p>
 
-- 🔭 I’m currently working on **personal project**
-
-- 🌱 I’m currently learning **data structures**
-
 - 👯 I’m looking to collaborate on **exciting projects**
 
 - 💬 Ask me about **web development**
